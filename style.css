@@ -1,0 +1,15 @@
+p{
+    color:red;
+    font-size: large;
+}
+div{
+    text-align: center;
+    color: chartreuse;
+    background-color: rgba(220, 20, 60, 0.678);
+    font-weight: 900;
+}
+div li{
+    display: inline-block;
+    padding: 30px;
+    font-size: 20px;
+}
