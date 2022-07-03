@@ -1,3 +1,9 @@
+body{
+    background-image: url(images/girl.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
 p{
     color:red;
     font-size: large;
@@ -15,4 +21,13 @@ div li{
 }
 h2{
     background-color: royalblue;
+    color: #ffff;
+}
+img{
+ width: 200px;
+ height: 200px;
+ border: 8px solid white;
+ padding: 8px;
+ margin: 10px 60px;
+ 
 }
